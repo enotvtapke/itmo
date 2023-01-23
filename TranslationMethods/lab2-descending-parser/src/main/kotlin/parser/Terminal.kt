@@ -1,0 +1,5 @@
+package parser
+
+enum class Terminal: Token {
+    VAR, IDENTIFIER, COLON, ARRAY_IDENTIFIER, LANGLE, COMMA, RANGLE, SEMICOLON, EMPTY, END
+}

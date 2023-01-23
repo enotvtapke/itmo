@@ -1,0 +1,64 @@
+graph ParseTree {
+  33 [label="Expr(res=57.9)"]
+  33 -- {34 36}
+  34 [label="Term(res=-1.6)"]
+  34 -- {35}
+  35 [label="NUMBER(-1.6)"]
+  35 -- {}
+  36 [label="Expr_(res=57.9)"]
+  36 -- {37 38 40}
+  37 [label="PLUS(+)"]
+  37 -- {}
+  38 [label="Term(res=-2.5)"]
+  38 -- {39}
+  39 [label="NUMBER(-2.5)"]
+  39 -- {}
+  40 [label="Expr_(res=57.9)"]
+  40 -- {41 42 44}
+  41 [label="PLUS(+)"]
+  41 -- {}
+  42 [label="Term(res=3)"]
+  42 -- {43}
+  43 [label="NUMBER(3)"]
+  43 -- {}
+  44 [label="Expr_(res=57.9)"]
+  44 -- {45 46 58}
+  45 [label="PLUS(+)"]
+  45 -- {}
+  46 [label="Term(res=-41)"]
+  46 -- {47 48 57}
+  47 [label="LBRACKET(()"]
+  47 -- {}
+  48 [label="Expr(res=-41)"]
+  48 -- {49 51}
+  49 [label="Term(res=-43)"]
+  49 -- {50}
+  50 [label="NUMBER(-43)"]
+  50 -- {}
+  51 [label="Expr_(res=-41)"]
+  51 -- {52 53 55}
+  52 [label="PLUS(+)"]
+  52 -- {}
+  53 [label="Term(res=2)"]
+  53 -- {54}
+  54 [label="NUMBER(2)"]
+  54 -- {}
+  55 [label="Expr_(res=-41)"]
+  55 -- {56}
+  56 [label="EPS()"]
+  56 -- {}
+  57 [label="RBRACKET())"]
+  57 -- {}
+  58 [label="Expr_(res=57.9)"]
+  58 -- {59 60 62}
+  59 [label="PLUS(+)"]
+  59 -- {}
+  60 [label="Term(res=100)"]
+  60 -- {61}
+  61 [label="NUMBER(100)"]
+  61 -- {}
+  62 [label="Expr_(res=57.9)"]
+  62 -- {63}
+  63 [label="EPS()"]
+  63 -- {}
+}

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RISC-V_Disassembler">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/RISC-V Disassembler/out/artifacts/RISC_V_Disassembler_jar/RISC-V_Disassembler.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

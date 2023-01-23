@@ -1,0 +1,12 @@
+version: "3.9"
+services:
+  postgres:
+    image: postgres:14.5
+    restart: always
+    environment:
+      POSTGRES_USER: "admin"
+      POSTGRES_PASSWORD: "admin"
+      POSTGRES_DB: "postgres"
+    ports:
+      - ${DB_PORT:-5432}:5432
+# TODO добавить тома для бэкапа бд

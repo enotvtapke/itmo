@@ -1,0 +1,1 @@
+forfiles /P C:\Windows /M *.* /C "CMD /C if @fsize gtr 2097152 copy @PATH c:\Users\super\OS\OSlite\lab6\shared /z /y"

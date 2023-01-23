@@ -1,0 +1,68 @@
+graph ParseTree {
+  0 [label="VarDeclaration"]
+  0 -- {1 2 3 4 31}
+  1 [label="VAR(var)"]
+  1 -- {}
+  2 [label="VAR_ID(arrayOfMaps)"]
+  2 -- {}
+  3 [label="COLON(:)"]
+  3 -- {}
+  4 [label="GenericType"]
+  4 -- {5 6}
+  5 [label="TYPE_ID(Array)"]
+  5 -- {}
+  6 [label="GenericParametersList"]
+  6 -- {7 8 30}
+  7 [label="LANGLE(<)"]
+  7 -- {}
+  8 [label="GenericParameters"]
+  8 -- {9 28}
+  9 [label="GenericType"]
+  9 -- {10 11}
+  10 [label="TYPE_ID(Map)"]
+  10 -- {}
+  11 [label="GenericParametersList"]
+  11 -- {12 13 27}
+  12 [label="LANGLE(<)"]
+  12 -- {}
+  13 [label="GenericParameters"]
+  13 -- {14 18}
+  14 [label="GenericType"]
+  14 -- {15 16}
+  15 [label="TYPE_ID(Int)"]
+  15 -- {}
+  16 [label="GenericParametersList"]
+  16 -- {17}
+  17 [label="EPS()"]
+  17 -- {}
+  18 [label="GenericParametersNext"]
+  18 -- {19 20}
+  19 [label="COMMA(,)"]
+  19 -- {}
+  20 [label="GenericParameters"]
+  20 -- {21 25}
+  21 [label="GenericType"]
+  21 -- {22 23}
+  22 [label="TYPE_ID(String)"]
+  22 -- {}
+  23 [label="GenericParametersList"]
+  23 -- {24}
+  24 [label="EPS()"]
+  24 -- {}
+  25 [label="GenericParametersNext"]
+  25 -- {26}
+  26 [label="EPS()"]
+  26 -- {}
+  27 [label="RANGLE(>)"]
+  27 -- {}
+  28 [label="GenericParametersNext"]
+  28 -- {29}
+  29 [label="EPS()"]
+  29 -- {}
+  30 [label="RANGLE(>)"]
+  30 -- {}
+  31 [label="Endline"]
+  31 -- {32}
+  32 [label="SEMICOLON(;)"]
+  32 -- {}
+}

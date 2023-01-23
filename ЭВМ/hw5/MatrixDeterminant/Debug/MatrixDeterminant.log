@@ -1,0 +1,3 @@
+﻿  MatrixDeterminant.cpp
+C:\Users\BOSS\ЭВМ\hm5\MatrixDeterminant\MatrixDeterminant.cpp(20,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MatrixDeterminant.vcxproj -> C:\Users\BOSS\ЭВМ\hm5\MatrixDeterminant\Debug\MatrixDeterminant.exe

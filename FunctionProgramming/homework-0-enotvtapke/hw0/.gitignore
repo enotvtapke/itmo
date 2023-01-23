@@ -1,0 +1,8 @@
+.stack-work/
+*~
+.idea/
+out/
+*.iml
+style.cmd
+stylish-haskell.yaml
+hlint.yaml

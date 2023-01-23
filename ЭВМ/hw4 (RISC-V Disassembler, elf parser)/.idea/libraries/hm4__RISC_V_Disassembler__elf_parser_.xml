@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="hm4 (RISC-V Disassembler, elf parser)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/RISC-V_Disassembler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DisassemblerSourceCode.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

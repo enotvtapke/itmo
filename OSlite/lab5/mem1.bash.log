@@ -1,0 +1,188 @@
+mem1.bash 91690
+
+MiB Mem : 1817.2 total, 1621.5 free, 114.8 used, 80.9 buff/cache
+MiB Swap: 820.0 total, 723.7 free, 96.3 used. 1580.4 avail Mem
+mem1.bash mem2.bash systemd-journal systemd top
+91690 user 20 0 242580 23012 2924 R 33.3 1.2 0:00.45 mem1.bash
+
+MiB Mem : 1817.2 total, 1554.1 free, 182.2 used, 81.0 buff/cache
+MiB Swap: 820.0 total, 723.7 free, 96.3 used. 1511.7 avail Mem
+mem1.bash mem2.bash systemd-journal systemd top
+91690 user 20 0 278616 59180 2924 R 31.8 3.2 0:01.27 mem1.bash
+
+MiB Mem : 1817.2 total, 1490.5 free, 245.7 used, 81.0 buff/cache
+MiB Swap: 820.0 total, 723.7 free, 96.3 used. 1450.8 avail Mem
+mem1.bash mem2.bash systemd-journal systemd top
+91690 user 20 0 308316 88748 2924 R 33.3 4.8 0:02.02 mem1.bash
+
+MiB Mem : 1817.2 total, 1422.6 free, 313.6 used, 81.0 buff/cache
+MiB Swap: 820.0 total, 723.7 free, 96.3 used. 1382.6 avail Mem
+mem1.bash mem2.bash systemd-journal systemd top
+91690 user 20 0 344352 124916 2924 R 40.0 6.7 0:02.83 mem1.bash
+
+MiB Mem : 1817.2 total, 1359.4 free, 376.8 used, 81.0 buff/cache
+MiB Swap: 820.0 total, 723.7 free, 96.3 used. 1316.9 avail Mem
+mem1.bash mem2.bash systemd-journal systemd top
+91690 user 20 0 377484 157916 2924 R 41.2 8.5 0:03.62 mem1.bash
+
+MiB Mem : 1817.2 total, 1294.1 free, 442.1 used, 81.0 buff/cache
+MiB Swap: 820.0 total, 723.7 free, 96.3 used. 1252.5 avail Mem
+mem1.bash mem2.bash systemd-journal systemd top
+91690 user 20 0 409692 190124 2924 R 35.3 10.2 0:04.40 mem1.bash
+
+MiB Mem : 1817.2 total, 1230.5 free, 505.7 used, 81.0 buff/cache
+MiB Swap: 820.0 total, 723.7 free, 96.3 used. 1187.5 avail Mem
+mem1.bash mem2.bash systemd-journal systemd top
+91690 user 20 0 443748 224180 2924 R 31.2 12.0 0:05.19 mem1.bash
+
+MiB Mem : 1817.2 total, 1163.2 free, 573.0 used, 81.0 buff/cache
+MiB Swap: 820.0 total, 723.7 free, 96.3 used. 1121.1 avail Mem
+mem1.bash mem2.bash systemd-journal systemd top
+91690 user 20 0 477276 257708 2924 R 31.2 13.8 0:05.97 mem1.bash
+
+MiB Mem : 1817.2 total, 1095.0 free, 641.2 used, 81.0 buff/cache
+MiB Swap: 820.0 total, 723.7 free, 96.3 used. 1052.6 avail Mem
+mem1.bash mem2.bash systemd-journal systemd top
+91690 user 20 0 511728 292292 2924 R 41.2 15.7 0:06.78 mem1.bash
+
+MiB Mem : 1817.2 total, 1029.4 free, 706.8 used, 81.0 buff/cache
+MiB Swap: 820.0 total, 723.7 free, 96.3 used. 988.6 avail Mem
+mem1.bash mem2.bash systemd-journal systemd top
+91690 user 20 0 546312 326876 2924 R 35.0 17.6 0:07.56 mem1.bash
+
+MiB Mem : 1817.2 total, 962.5 free, 773.7 used, 81.0 buff/cache
+MiB Swap: 820.0 total, 723.7 free, 96.3 used. 919.8 avail Mem
+mem1.bash mem2.bash systemd-journal systemd top
+91690 user 20 0 580104 360668 2924 R 38.9 19.4 0:08.35 mem1.bash
+
+MiB Mem : 1817.2 total, 895.0 free, 841.2 used, 81.0 buff/cache
+MiB Swap: 820.0 total, 723.7 free, 96.3 used. 852.4 avail Mem
+mem1.bash mem2.bash systemd-journal systemd top
+91690 user 20 0 614028 394460 2924 R 37.5 21.2 0:09.11 mem1.bash
+
+MiB Mem : 1817.2 total, 828.4 free, 907.8 used, 81.0 buff/cache
+MiB Swap: 820.0 total, 723.7 free, 96.3 used. 785.6 avail Mem
+mem1.bash mem2.bash systemd-journal systemd top
+91690 user 20 0 648348 428780 2924 R 41.2 23.0 0:09.91 mem1.bash
+
+MiB Mem : 1817.2 total, 762.5 free, 973.6 used, 81.0 buff/cache
+MiB Swap: 820.0 total, 723.7 free, 96.3 used. 720.4 avail Mem
+mem1.bash mem2.bash systemd-journal systemd top
+91690 user 20 0 683592 464156 2924 R 42.1 24.9 0:10.73 mem1.bash
+
+MiB Mem : 1817.2 total, 694.7 free, 1041.5 used, 81.0 buff/cache
+MiB Swap: 820.0 total, 723.7 free, 96.3 used. 656.0 avail Mem
+mem1.bash mem2.bash systemd-journal systemd top
+91690 user 20 0 715800 496364 2924 R 31.6 26.7 0:11.50 mem1.bash
+
+MiB Mem : 1817.2 total, 629.7 free, 1106.5 used, 81.0 buff/cache
+MiB Swap: 820.0 total, 723.7 free, 96.3 used. 588.7 avail Mem
+mem1.bash mem2.bash systemd-journal systemd top
+91690 user 20 0 748140 528572 2924 R 41.2 28.4 0:12.28 mem1.bash
+
+MiB Mem : 1817.2 total, 568.8 free, 1167.4 used, 81.0 buff/cache
+MiB Swap: 820.0 total, 723.7 free, 96.3 used. 527.1 avail Mem
+mem1.bash mem2.bash systemd-journal systemd top
+91690 user 20 0 783120 563684 2924 R 41.2 30.3 0:13.07 mem1.bash
+
+MiB Mem : 1817.2 total, 500.8 free, 1235.4 used, 81.0 buff/cache
+MiB Swap: 820.0 total, 723.7 free, 96.3 used. 457.6 avail Mem
+mem1.bash mem2.bash systemd-journal systemd top
+91690 user 20 0 817308 597740 2924 R 37.5 32.1 0:13.85 mem1.bash
+
+MiB Mem : 1817.2 total, 432.4 free, 1303.8 used, 81.0 buff/cache
+MiB Swap: 820.0 total, 723.7 free, 96.3 used. 390.3 avail Mem
+mem1.bash mem2.bash systemd-journal systemd top
+91690 user 20 0 850968 631532 2924 R 43.8 33.9 0:14.65 mem1.bash
+
+MiB Mem : 1817.2 total, 364.3 free, 1371.9 used, 81.0 buff/cache
+MiB Swap: 820.0 total, 723.7 free, 96.3 used. 321.8 avail Mem
+mem1.bash mem2.bash systemd-journal systemd top
+91690 user 20 0 887928 668492 2924 R 26.1 35.9 0:15.44 mem1.bash
+
+MiB Mem : 1817.2 total, 296.7 free, 1439.4 used, 81.0 buff/cache
+MiB Swap: 820.0 total, 723.7 free, 96.3 used. 255.3 avail Mem
+mem1.bash mem2.bash systemd-journal systemd top
+91690 user 20 0 922512 703076 2924 R 50.0 37.8 0:16.24 mem1.bash
+
+MiB Mem : 1817.2 total, 226.1 free, 1510.1 used, 81.0 buff/cache
+MiB Swap: 820.0 total, 723.7 free, 96.3 used. 183.6 avail Mem
+mem1.bash mem2.bash systemd-journal systemd top
+91690 user 20 0 957624 738188 2924 R 35.3 39.7 0:17.02 mem1.bash
+
+MiB Mem : 1817.2 total, 160.3 free, 1575.9 used, 81.0 buff/cache
+MiB Swap: 820.0 total, 723.7 free, 96.3 used. 119.2 avail Mem
+mem1.bash mem2.bash systemd-journal systemd top
+91690 user 20 0 991020 771452 2924 R 29.4 41.5 0:17.81 mem1.bash
+
+MiB Mem : 1817.2 total, 95.0 free, 1641.1 used, 81.0 buff/cache
+MiB Swap: 820.0 total, 723.7 free, 96.3 used. 54.0 avail Mem
+mem1.bash mem2.bash systemd-journal systemd top
+91690 user 20 0 1025604 806036 2924 R 42.1 43.3 0:18.62 mem1.bash
+
+MiB Mem : 1817.2 total, 72.1 free, 1700.3 used, 44.8 buff/cache
+MiB Swap: 820.0 total, 700.7 free, 119.3 used. 33.6 avail Mem
+mem1.bash mem2.bash systemd-journal top top
+91690 user 20 0 1057416 836768 2536 R 31.8 45.0 0:19.39 mem1.bash
+
+MiB Mem : 1817.2 total, 68.9 free, 1697.8 used, 50.5 buff/cache
+MiB Swap: 820.0 total, 651.7 free, 168.2 used. 15.0 avail Mem
+mem1.bash mem2.bash systemd-journal top top
+91690 user 20 0 1088172 859164 2536 R 27.3 46.2 0:20.14 mem1.bash
+
+MiB Mem : 1817.2 total, 70.2 free, 1696.4 used, 50.6 buff/cache
+MiB Swap: 820.0 total, 593.9 free, 226.0 used. 13.8 avail Mem
+mem1.bash mem2.bash systemd-journal top top
+91690 user 20 0 1118928 860176 2536 R 41.2 46.2 0:20.96 mem1.bash
+
+MiB Mem : 1817.2 total, 68.6 free, 1699.4 used, 49.1 buff/cache
+MiB Swap: 820.0 total, 531.2 free, 288.8 used. 11.9 avail Mem
+mem1.bash mem2.bash systemd-journal top top
+91690 user 20 0 1148232 857808 2536 R 36.8 46.1 0:21.68 mem1.bash
+
+MiB Mem : 1817.2 total, 66.7 free, 1702.1 used, 48.4 buff/cache
+MiB Swap: 820.0 total, 469.1 free, 350.9 used. 14.0 avail Mem
+mem1.bash mem2.bash systemd-journal top top
+91690 user 20 0 1177140 857172 2536 R 35.3 46.1 0:22.38 mem1.bash
+
+MiB Mem : 1817.2 total, 73.4 free, 1696.4 used, 47.4 buff/cache
+MiB Swap: 820.0 total, 413.2 free, 406.8 used. 20.1 avail Mem
+mem1.bash mem2.bash systemd-journal top top
+91690 user 20 0 1202220 852704 2536 R 35.3 45.8 0:23.01 mem1.bash
+
+MiB Mem : 1817.2 total, 71.4 free, 1697.7 used, 48.0 buff/cache
+MiB Swap: 820.0 total, 357.1 free, 462.9 used. 22.3 avail Mem
+mem1.bash mem2.bash systemd-journal top top
+91690 user 20 0 1229544 851052 2536 R 38.9 45.7 0:23.70 mem1.bash
+
+MiB Mem : 1817.2 total, 72.0 free, 1698.1 used, 47.1 buff/cache
+MiB Swap: 820.0 total, 307.0 free, 513.0 used. 13.2 avail Mem
+mem1.bash mem2.bash systemd-journal top top
+91690 user 20 0 1258188 849220 2536 R 29.4 45.6 0:24.41 mem1.bash
+
+MiB Mem : 1817.2 total, 71.9 free, 1699.4 used, 45.9 buff/cache
+MiB Swap: 820.0 total, 242.3 free, 577.7 used. 18.4 avail Mem
+mem1.bash mem2.bash systemd-journal top top
+91690 user 20 0 1290132 845944 2536 R 6.1 45.5 0:25.18 mem1.bash
+
+MiB Mem : 1817.2 total, 70.4 free, 1699.7 used, 47.1 buff/cache
+MiB Swap: 820.0 total, 171.5 free, 648.5 used. 23.3 avail Mem
+mem1.bash mem2.bash systemd-journal top top
+91690 user 20 0 1319700 845788 2536 R 38.9 45.5 0:25.88 mem1.bash
+
+MiB Mem : 1817.2 total, 70.6 free, 1697.6 used, 49.0 buff/cache
+MiB Swap: 820.0 total, 116.6 free, 703.4 used. 20.9 avail Mem
+mem1.bash mem2.bash systemd-journal top top
+91690 user 20 0 1348872 847188 2536 R 50.0 45.5 0:26.60 mem1.bash
+
+MiB Mem : 1817.2 total, 74.8 free, 1693.9 used, 48.4 buff/cache
+MiB Swap: 820.0 total, 48.3 free, 771.7 used. 22.7 avail Mem
+mem1.bash mem2.bash systemd-journal top top
+91690 user 20 0 1377648 834216 2536 R 36.8 44.8 0:27.31 mem1.bash
+
+MiB Mem : 1817.2 total, 68.1 free, 1701.0 used, 48.0 buff/cache
+MiB Swap: 820.0 total, 0.4 free, 819.6 used. 14.0 avail Mem
+mem2.bash systemd-journal top top systemd
+
+[131592.597011] Out of memory: Killed process 91690 (mem1.bash) total-vm:1415532kB, anon-rss:849368kB, file-rss:0kB, shmem-rss:0kB, UID:1000 pgtables:2412kB oom_score_adj:0 [131592.886821] oom_reaper: reaped process 91690 (mem1.bash), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
+1500000

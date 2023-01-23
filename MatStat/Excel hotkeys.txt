@@ -1,0 +1,10 @@
+Ctrl + Shift + _ Удалить все границы ячеек
+Ctrl + Shift + & Добавить все границы
+F4 При вводе формулы переключает ссылку на ячейку с абсолютной на относительную
+F2 Фокус на меню формул
+Alt чтобы отобразить подсказки и идти по ним к нужной кнопке
+Alt чтобы картинки и диаграммы выравнивались к краям ячеек
+Ctrl + Shift + MouseWheelDown scrolls right.
+Ctrl + Shift + MouseWheelUp scrolls back left.
+Ctrl + F3 Define new name
+Shift + F3 Вставка функции

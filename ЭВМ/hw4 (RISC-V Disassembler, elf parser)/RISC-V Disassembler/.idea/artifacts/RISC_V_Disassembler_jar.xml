@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RISC-V_Disassembler:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RISC_V_Disassembler_jar</output-path>
+    <root id="archive" name="RISC-V_Disassembler.jar">
+      <element id="module-output" name="RISC-V_Disassembler" />
+    </root>
+  </artifact>
+</component>
